@@ -1,0 +1,27 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 200px;
+
+}
+header, main {
+    text-align: center;
+}
+
+button {
+    border-radius: 30px;
+    color: yellow;
+    background-color: black;
+    border-bottom: 20px;
+    height: 30px;
+    width: auto;
+    cursor: pointer;
+    padding: 10px;
+    font-size: 10px;
+    font-family: Georgia, 'Times New Roman', Times;
+}
